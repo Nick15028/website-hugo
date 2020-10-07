@@ -25,7 +25,7 @@ theme = "LoveIt"
   # LoveIt NEW | 0.2.0 date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["/logo.png"]
+  images = ["logo.png"]
 
   # LoveIt NEW | 0.2.0 App icon config
   [params.app]
@@ -170,9 +170,9 @@ theme = "LoveIt"
     # whether to enable lightgallery
     lightgallery = false
     # LoveIt NEW | 0.2.0 whether to enable the ruby extended syntax
-    ruby = true
+    ruby = false #2020 Sep 30 modify
     # LoveIt NEW | 0.2.0 whether to enable the fraction extended syntax
-    fraction = true
+    fraction = false  #2020 Sep 30 modify
     # LoveIt NEW | 0.2.0 whether to enable the fontawesome extended syntax
     fontawesome = true
     # whether to show link to Raw Markdown content of the content
