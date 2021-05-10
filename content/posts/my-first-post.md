@@ -3,7 +3,7 @@ title: "尼克的第一篇博客"
 date: 2021-03-29T23:59:25+08:00
 draft: false
 categories: ["學習筆記"]
-tags: ["Notes","GIDLE"]
+tags: ["Notes"]
 ---
 
 還在測試中~  
