@@ -30,8 +30,10 @@ tags: ["Notes","NTUST","asm","masm6.15"]
 印出 Hi, I learn assembly.
 {{< /admonition >}}
 
-![Hello.exe](2021-09-29-EX.jpg "Hello.exe")
-
+```bash
+C:\Masm615>TEST.EXE
+Hi, I learn assembly.
+```
 ```nasm
 .model small
 .data
@@ -60,7 +62,12 @@ end main
 2. 使用特殊符號包圍住
 {{< /admonition >}}
 
-![lab1.exe](2021-09-29-HW.jpg "lab1.exe")
+```bash
+C:\Masm615>LAB1.EXE
+==================
+My ID is M10911014
+==================
+```
 
 ```nasm
 .model small
