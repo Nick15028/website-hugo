@@ -24,7 +24,24 @@ tags: ["Notes","NTUST","asm","masm6.15"]
 * 文書處理器：附檔名為 `*.asm`
 {{< /admonition >}}
 
-## 3 範例
+## 3 組義和連結方法
+
+進行組譯
+```bash
+C:\Masm615>ml.Ta Hello.asm
+```
+
+使用鏈結產生EXE檔
+```bash
+C:\Masm615>link Hello.obj
+```
+
+最後開啟執行檔測試
+```bash
+C:\Masm615>HELLO.EXE
+```
+
+## 4 範例
 
 {{< admonition tip "印出一行文字" >}}
 印出 Hi, I learn assembly.
@@ -55,7 +72,7 @@ main endp
 end main
 ```
 
-## 4 作業
+## 5 作業
 
 {{< admonition tip "換行">}}
 1. 印出自己的學號
