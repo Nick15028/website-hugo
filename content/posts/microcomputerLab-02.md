@@ -5,4 +5,5 @@ draft: false
 categories: ["微算機概論實習"]
 tags: ["Notes","NTUST","asm","masm6.15"]
 ---
-等等來更新！
+
+好久沒來更新了！
