@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU;AACV,WAAW;AACX,aAAa,CAAC;EACZ,IAAI,EAAE,SAAS;EACf,KAAK,EAAE,SAAS;EAChB,WAAW,EAAE,8BAA8B;EAC3C,WAAW,EAAE,0BAA0B;CACxC",
+    "sources": [
+        "git.scss"
+    ],
+    "names": [],
+    "file": "git.css"
+}
